@@ -209,19 +209,6 @@ python test_todo.py
 
 ## 🎯 Learning Value
 
-This project is suitable for the following learning objectives:
-
-### 🏗️ Software Engineering
-- Project structure design
-- Modular development
-- Code organization and architecture
-
-### 🐍 Python Advanced
-- Object-oriented programming
-- Inheritance and polymorphism
-- Decorators and magic methods
-- Type hints and documentation
-
 ### 🔧 Practical Skills
 - File I/O operations
 - JSON data processing
