@@ -244,18 +244,6 @@ Project can be further extended:
 5. **Reminder Features**: System notifications
 6. **Team Collaboration**: Multi-user support
 
-## 📄 License
-
-MIT License - See LICENSE file for details
-
-## 👥 Contributing
-
-Issues and Pull Requests are welcome!
-
-## 📞 Contact
-
-For questions or suggestions, please contact the project maintainer.
-
 ---
 
 **🎓 COMP9001 Final Project**  
