@@ -233,17 +233,6 @@ This project is suitable for the following learning objectives:
 - Data structure selection
 - Algorithm optimization
 
-## 🚀 Extension Suggestions
-
-Project can be further extended:
-
-1. **GUI Interface**: Using tkinter or PyQt
-2. **Web Interface**: Using Flask or Django
-3. **Database Support**: SQLite or PostgreSQL
-4. **Sync Functionality**: Cloud synchronization
-5. **Reminder Features**: System notifications
-6. **Team Collaboration**: Multi-user support
-
 ---
 
 **🎓 COMP9001 Final Project**  
